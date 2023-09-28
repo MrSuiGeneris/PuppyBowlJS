@@ -1,0 +1,8 @@
+*{
+  padding: 5px;
+  margin: 0;
+  box-sizing: border-box;
+}
+.pups{
+  max-width: 200px;
+}
